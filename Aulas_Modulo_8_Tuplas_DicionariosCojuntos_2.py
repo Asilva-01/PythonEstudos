@@ -1,0 +1,11 @@
+tupla=()
+print(tupla)
+print(type(tupla))
+print(type(()))
+tupla = (1,2,3)
+print(tupla)
+print(tupla[1])
+print(tupla[2])
+tupla.remove(1)
+tupla.append(4)
+
